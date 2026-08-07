@@ -1,7 +1,7 @@
 # Taller de Fábrica Abstracta — Spacewar 2D Refactoring
 
 Esta es nuestra solución a la Parte II del taller de Diseño y Arquitectura de Software, sobre Inversión de Dependencias y Patrones Creacionales.
-*Amy Nossa y Pablo Tamayo*<img width="1076" height="810" alt="GAME-V~1" src="https://github.com/user-attachments/assets/443de696-0364-4197-822d-634d94af8719" />
+*Amy Nossa y Pablo Tamayo*
 
 
 ## El problema
