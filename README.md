@@ -1,8 +1,8 @@
 # Taller de Fábrica Abstracta — Spacewar 2D Refactoring
 
 Esta es nuestra solución a la Parte II del taller de Diseño y Arquitectura de Software, sobre Inversión de Dependencias y Patrones Creacionales.
+*Amy Nossa y Pablo Tamayo*<img width="1076" height="810" alt="GAME-V~1" src="https://github.com/user-attachments/assets/443de696-0364-4197-822d-634d94af8719" />
 
-Enunciado original y proyecto de partida: [DYAS-GoF-CreationalPatterns-GameRefactoring](https://github.com/CesarAVegaF312/DYAS-GoF-CreationalPatterns-GameRefactoring). El juego base es una versión modificada de [spacewar-2d](https://github.com/ekaputra07/spacewar-2d).
 
 ## El problema
 
@@ -86,8 +86,10 @@ com.balitechy.spacewar.visual.colorfulvectorial.ColorfulVectorialStyleFactory
 
 `vectorial-style` (líneas blancas sobre fondo negro):
 
-![vectorial-style](game-vectorial-style.png)
+<img width="1076" height="810" alt="GAME-V~1" src="https://github.com/user-attachments/assets/5ee8058d-5d38-42c5-a2c9-2ce00105feb7" />
+
 
 `colorful-vectorial-style` — mismo juego, mismo `Game.java`, solo cambiamos la línea de configuración:
 
-![colorful-vectorial-style](game-colorful-vectorial-style.png)
+<img width="954" height="735" alt="GAME-C~1" src="https://github.com/user-attachments/assets/eba08307-9390-4561-a037-b8249364d256" />
+
